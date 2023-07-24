@@ -1,0 +1,1 @@
+z = random_acceptreject_halfnormal(20);
